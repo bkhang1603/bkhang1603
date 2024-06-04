@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS and NodeJS**
 
-- 📫 How to reach me **[baokhang160303@gmail.com](baokhang160303@gmail.com)**
+- 📫 How to reach me **baokhang160303@gmail.com**
 
 - 📄 Know about my experiences [bkhang's resume](comingsoon)
 
